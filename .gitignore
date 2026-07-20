@@ -67,3 +67,11 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# ESP-IDF specific
+managed_components/
+dependencies.lock
+sdkconfig.old
+
+# Ustawienia lokalne edytora
+.vscode/
